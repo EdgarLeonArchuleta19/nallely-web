@@ -107,14 +107,6 @@ Custom Properties en [`src/styles/index.css`](src/styles/index.css):
 | `--background` | `#fdfaf2` | Fondo crema cálido |
 | `--foreground` | `#22313f` | Texto principal |
 
-## 📱 Vista previa
-
-<p align="center">
-  <img src="docs/preview-desktop.png" alt="Super Nallely - Escritorio" width="70%" />
-</p>
-<p align="center">
-  <img src="docs/preview-mobile.png" alt="Super Nallely - Móvil" width="30%" />
-</p>
 
 ## 📞 Contacto
 
